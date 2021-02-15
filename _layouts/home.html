@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+  <head>
+    <title>{{site.title}}</title>
+    <link rel="stylesheet" href="/assets/css/bootstrap-grid.css">
+    <link rel="stylesheet" href="/assets/css/bootstrap-reboot.css">
+    <link rel="stylesheet" href="/assets/css/main.css">
+  </head>
+  <body>
+    <div class="main-container container">
+      <div class="row encabezado">
+        {% include header.html %}
+        {% include navbar.html %}
+      </div>
+      <main class="content">
+        <div class="row">
+          <div class="col-12">
+            {{content}}
+          </div>
+        </div>
+      </main>
+    </div>
+
+    {% include init_scripts.html %}
+  </body>
+</html>
