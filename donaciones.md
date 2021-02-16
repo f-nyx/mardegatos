@@ -14,9 +14,8 @@ Podés aportar diferentes montos, lo que puedas nos ayuda un montón.
 
 {% include donations-once.html %}
 
-# Política de transparencia
+## Política de transparencia
 
 Nuestra intención es que el manejo de las finanzas sea transparente, por eso vamos a publicar los comprobantes de los
-gastos que hagamos. Por ahora estamos subiendo los comprobantes a instagram. Si creés que faltan datos o querés
-preguntarnos algo, podés [contactarte con nosotrxs](/contacto).
+gastos que hagamos. Por ahora estamos subiendo los comprobantes a instagram.
 

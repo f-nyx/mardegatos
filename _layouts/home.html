@@ -2,16 +2,14 @@
 <html>
   <head>
     <title>{{site.title}}</title>
-    <link rel="stylesheet" href="/assets/css/bootstrap-grid.css">
-    <link rel="stylesheet" href="/assets/css/bootstrap-reboot.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="/assets/css/main.css">
   </head>
   <body>
     <div class="main-container container">
-      <div class="row encabezado">
-        {% include header.html %}
-        {% include navbar.html %}
-      </div>
+      {% include navbar.html %}
       <main class="content">
         <div class="row">
           <div class="col-12">

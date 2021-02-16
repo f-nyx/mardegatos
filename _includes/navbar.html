@@ -1,5 +1,6 @@
-<nav class="col-12 col-lg-7">
-  <ul class="d-flex justify-content-center">
+<nav class="navbar justify-content-between flex-row">
+  <a class="navbar-brand float-left" href="/"><img src="/assets/images/mardegatos.png" width="96"> Mar de Gatos</a>
+  <ul class="navbar-nav flex-row float-right">
     {% assign site_pages = site.pages | sort:"nav_order" %}
 
     {% for node in site_pages %}
@@ -7,9 +8,9 @@
         {% assign resolvedUrl = node.external_url | default: node.url  %}
 
         {% if page.url == node.url %}
-          <li class="active"><a href="{{resolvedUrl}}">{{node.nav_text}}</a></li>
+          <li class="nav-item active"><a class="nav-link pl-2 pr-2" href="{{resolvedUrl}}">{{node.nav_text}}</a></li>
         {% else %}
-          <li><a href="{{resolvedUrl}}">{{node.nav_text}}</a></li>
+          <li class="nav-item"><a class="nav-link pl-2 pr-2" href="{{resolvedUrl}}">{{node.nav_text}}</a></li>
         {% endif %}
       {% endif %}
     {% endfor %}
