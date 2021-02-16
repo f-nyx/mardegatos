@@ -9,7 +9,7 @@ nav_order: 4
 
 Te podes comunicar con nosotrxs por email, whatsapp, facebook e instagram.
 
-**Email de contacto**: [contacto@mardegatos.org](mailto: contacto@mardegatos.org)
+**Email de contacto**: [mardegatos.madryn@gmail.com](mailto:mardegatos.madryn@gmail.com)
 
 **Facebook**: [@mardegatos.madryn](https://www.facebook.com/mardegatos.madryn)
 

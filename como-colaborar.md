@@ -16,5 +16,5 @@ con nuestras actividades de las siguientes formas:
 * Ofreciendo tu vehículo para traslados
 * Difundiendo! Megusteando! Compartiendo!
 
-¿Tenés gatitos para dar, buscás al tuyo, o encontraste uno? Escribinos a [contacto@mardegatos.org](mailto:contacto@mardegatos.org) así lo publicamos! NO tenemos refugio ni lugar físico.
+¿Tenés gatitos para dar, buscás al tuyo, o encontraste uno? Escribinos a [mardegatos.madryn@gmail.com](mailto:mardegatos.madryn@gmail.com) así lo publicamos! NO tenemos refugio ni lugar físico.
 
