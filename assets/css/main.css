@@ -1,11 +1,11 @@
 @font-face {
   font-family: "IndieFlower";
-  src: url("../fonts/IndieFlower-Regular.ttf") format("truetype");
+  src: url("/assets/fonts/IndieFlower-Regular.ttf") format("truetype");
 }
 
 @font-face {
   font-family: "Open Sans";
-  src: url("../fonts/OpenSans-Regular.ttf") format("truetype");
+  src: url("/assets/fonts/OpenSans-Regular.ttf") format("truetype");
 }
 
 body {
