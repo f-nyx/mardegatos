@@ -1,7 +1,7 @@
 ---
 layout: home
 group: navigation
-nav_text: "Quienes Somos"
+nav_text: "Quiénes Somos"
 nav_order: 1
 ---
 
@@ -11,5 +11,5 @@ Somos un grupo de personas sumando nuestro granito de arena para cambiar la real
 
 Es un arduo trabajo que demanda no sólo tiempo y conocimiento sino mucha empatía y fortaleza para enfrentarse constantemente a situaciones límite y muchas veces desgarradoras. Necesitamos de tu apoyo para seguir llevando adelante nuestra labor que es cambiar presentes tristes por continuaciones felices.
 
-Nuestra agrupación no tiene fines de lucro y el único ingreso que tenemos es el de las donaciones de la gente y de los eventos que organizamos. Necesitamos [tu colaboracion](/como-colaborar).
+Nuestra agrupación no tiene fines de lucro y el único ingreso que tenemos es el de las donaciones de la gente y de los eventos que organizamos. Por más gatitos con vidas plenas y felices. Juntos hacemos la diferencia. ¡Ayudanos a ayudar!
 

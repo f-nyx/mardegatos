@@ -1,5 +1,15 @@
+@font-face {
+  font-family: "IndieFlower";
+  src: url("../fonts/IndieFlower-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Open Sans";
+  src: url("../fonts/OpenSans-Regular.ttf") format("truetype");
+}
+
 body {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Open Sans', sans-serif;
 }
 
 em {
@@ -31,7 +41,9 @@ nav {
 
 .navbar-brand {
   color: #333333;
-  font-size: 2.4rem;
+  font-family: IndieFlower;
+  font-size: 2.3rem;
+  text-transform: uppercase;
 }
 
 .nav-item {
@@ -47,6 +59,10 @@ nav {
 .nav-item.active .nav-link {
   background: #215f9c;
   color: #fff;
+}
+
+.main-content {
+  margin: auto;
 }
 
 .button-donate {
